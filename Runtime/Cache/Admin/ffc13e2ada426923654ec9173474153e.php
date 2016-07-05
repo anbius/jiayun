@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>Veterinary/editVeterinary?id=3
