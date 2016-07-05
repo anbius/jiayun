@@ -7,7 +7,7 @@ use Think\Model;
 class NewsCategoryModel extends Model{ 
     
    /*
-   * 获取子类
+   * 获取子类a
    * @param $pid
    * @output string
    */
