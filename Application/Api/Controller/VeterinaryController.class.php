@@ -10,7 +10,7 @@ class VeterinaryController extends ApiController {
     }
 	
 	/*
-	 * 获取兽医信息  今天是2016年7月5号  萧亚轩 最深
+	 * 获取兽医信息  今天是2016年7月5号  萧亚轩 最熟悉的陌生人
 	 */
 	public function getList(){
 		$map['status'] = array('eq',1);
