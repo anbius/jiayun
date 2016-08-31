@@ -17,7 +17,7 @@ class VeterinaryController extends ApiController {
 		$map['status'] = array('eq',1);
 
         /*我就是试试*/
-        $map['test'] =  222;
+        $map['test'] =  22478739582;
         /*我真是试试*/
 
 		$list = $this -> lists($this->model,$map,'sort asc,id desc','id,vete_name,real_name,cover,description,level,create_time as time');	
