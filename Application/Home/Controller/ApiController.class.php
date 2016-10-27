@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 
 namespace Home\Controller;
-
+/**我搜我我hi赛季第四**/
 use Ucenter\Api\Uc;
 class ApiController extends Uc{
     function index(){
