@@ -5,7 +5,7 @@ use Think\Controller;
 
 class IndexController extends Controller {
 	public function index(){
-		
+//这就是为甚吗		
 	}	
 	
 	
