@@ -15,7 +15,8 @@ use Think\Controller;
  * 用于调度各个扩展的URL访问需求
  */
 class AddonsController extends Controller{
-
+/** 今天搜我在滴ceiling黑无法违反给我发  :wq
+**/
     public function _initialize(){
         /* 读取数据库中的配置 */
         $config = S('DB_CONFIG_DATA');
